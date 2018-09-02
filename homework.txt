@@ -1,0 +1,2 @@
+TO make that you can type in "node{file}{city}"
+Return, In {city} it will have the maximum temperature of {} and minimum temperature of {}. Humitity is {}
